@@ -1,9 +1,12 @@
-Create a collection / catalog of images for testing based on variables:
+#Images catalog
 
-Size
-Type (extension)
-Complexity (color, etc.)
+The goal is to create a catalog of images for testing based on:
 
-What other variables?
+- Size
+- Type (extension)
+- Complexity (color, etc.)
 
-Then put on Github, create a page just like http://gifs.joelglovier.com/
+TODO:
+- Eventually create a page just like http://gifs.joelglovier.com/.
+- Add more instructions on how to commit
+- How do we attribute ownership of images?
