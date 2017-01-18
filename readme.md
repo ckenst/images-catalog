@@ -1,6 +1,10 @@
 #Images catalog
 
-The goal is to create a catalog of images for testing based on:
+The goal is to create a comprehensive catalog of images for testing based on a number of variables including size, format (file extension) and image complexity. At this point this repo is just starting out and is organized by file size.
+
+Images were either created by me or I found them on the web. Trying to use creative commons / free licenses. For any complaints please open an issue.
+
+For submissions, please create PRs.
 
 - Size
   - ~100MB
@@ -18,7 +22,7 @@ The goal is to create a catalog of images for testing based on:
   - Compressed?
 - Designs:
   - Floor plan
-  - 
+  -
 
 TODO:
 - Eventually create a page just like http://gifs.joelglovier.com/.
