@@ -16,13 +16,11 @@ For submissions, please create PRs.
   - Add: .ico
   - Add: .svg
   - Add: .jpeg/.jpg
+  - Add: .tiff
   - Any other proprietary image file types?
 - Complexity (color, etc.)
-  - Add: B&W
+  - B&W + Color have been added
   - Compressed?
-- Designs:
-  - Floor plan
-  -
 
 TODO:
 - Eventually create a page just like http://gifs.joelglovier.com/.
@@ -33,8 +31,7 @@ TODO:
 - Look at this: http://www.math.purdue.edu/~lucier/692/test_images.html
 - Look at this: http://www.colorwiki.com/wiki/Test_Images
 
-Separate catalogs of files / formats:
+Additional image catalogs:
   - https://www.w3.org/People/mimasa/test/imgformat/
   - https://homepages.cae.wisc.edu/~ece533/images/
   - https://commons.wikimedia.org/wiki/Category:Large_images
-  -
