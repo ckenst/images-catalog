@@ -12,11 +12,11 @@ For submissions, please create PRs.
 - [Type / file format](https://en.wikipedia.org/wiki/Image_file_formats)
   - Add: .raw
   - Add: .gif
-  - Add: .png
+  - Add: .png - Added
   - Add: .ico
   - Add: .svg
-  - Add: .jpeg/.jpg
-  - Add: .tiff
+  - Add: .jpeg/.jpg - Added
+  - Add: .tiff - Added
   - Any other proprietary image file types?
 - Complexity (color, etc.)
   - B&W + Color have been added
