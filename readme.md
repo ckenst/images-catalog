@@ -12,14 +12,14 @@ For submissions, please create PRs.
 - [Type / file format](https://en.wikipedia.org/wiki/Image_file_formats)
   - Add: .raw
   - Add: .gif
-  - Add: .png - Added
+  - ~~Add: .png - Added~~
   - Add: .ico
   - Add: .svg
-  - Add: .jpeg/.jpg - Added
-  - Add: .tiff - Added
+  - ~~Add: .jpeg/.jpg - Added~~
+  - ~~Add: .tiff~~
   - Any other proprietary image file types?
 - Complexity (color, etc.)
-  - B&W + Color have been added
+  - ~~B&W + Color have been added~~
   - Compressed?
 
 TODO:
@@ -30,6 +30,7 @@ TODO:
 - Separate images into respective folders (based on what?)
 - Look at this: http://www.math.purdue.edu/~lucier/692/test_images.html
 - Look at this: http://www.colorwiki.com/wiki/Test_Images
+- All photos should be listed under what license?
 
 Additional image catalogs:
   - https://www.w3.org/People/mimasa/test/imgformat/
