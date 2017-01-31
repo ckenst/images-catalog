@@ -26,7 +26,6 @@ TODO:
 - Eventually create a page just like http://gifs.joelglovier.com/.
 - Add more instructions on how to commit
 - How do we attribute ownership of images?
-- Update name of repo to images_catalog. Makes it a little clearer
 - Separate images into respective folders (based on what?)
 - Look at this: http://www.math.purdue.edu/~lucier/692/test_images.html
 - Look at this: http://www.colorwiki.com/wiki/Test_Images
