@@ -1,6 +1,6 @@
-#Contained formats:
+# Formats:
 
-The following file formats are contained within this repo. 
+The following file formats are contained within this repo.
 
 - .jpg
 - .jpeg
@@ -8,4 +8,4 @@ The following file formats are contained within this repo.
 - .bmp
 - .png
 - .tiff
-- .cr2, canon raw image format. 
+- .cr2, canon raw image format.
