@@ -6,7 +6,20 @@ Images were either created by me or found them on the web. Trying to use creativ
 
 For submissions, please create PRs.
 
-## Additional image catalogs:
+## Formats:
+
+The following file formats are contained within this repo.
+
+- .jpg
+- .jpeg
+- .psd, photoshop document.
+- .bmp
+- .png
+- .tiff
+- .cr2, canon raw image format.
+
+
+## Additional catalogs:
   - https://www.w3.org/People/mimasa/test/imgformat/
   - https://homepages.cae.wisc.edu/~ece533/images/
   - https://commons.wikimedia.org/wiki/Category:Large_images
