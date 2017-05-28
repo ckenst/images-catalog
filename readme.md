@@ -10,13 +10,14 @@ For submissions, please create PRs.
 
 The following file formats are contained within this repo.
 
+- .bmp
+- .cr2, canon raw image format.
 - .jpg
 - .jpeg
-- .psd, photoshop document.
-- .bmp
 - .png
+- .psd, photoshop document.
+- .svg
 - .tiff
-- .cr2, canon raw image format.
 
 
 ## Additional catalogs:
