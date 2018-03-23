@@ -1,8 +1,10 @@
 # Images Catalog
 
-The goal is to create a comprehensive catalog of images for testing based on a number of variables including size, format (file extension) and image complexity. At this point this repo is just starting out and is organized by file size.
+The goal is to create a comprehensive catalog of images for testing based on a number of variables including size, format (file extension) and image complexity.
 
-- Images were either created by me or I found them on the web. Trying to use creative commons / free licenses. For any complaints please open an issue.
+Repo is organized mainly by file size and file type. Currently 12 different file types (which range in size) and then specific directories for small, medium and large files. (Large files require separate downloading / too large for GitHub.)
+
+- Images were either created by me or I found them on the web, images should all be creative commons / free licenses. For any complaints please open an issue.
 - For submissions, please create PRs.
 
 Additional image catalogs:
@@ -19,7 +21,6 @@ Additional image catalogs:
   - [Type / file format](https://en.wikipedia.org/wiki/Image_file_formats)
     - Add: .raw
     - Add: .ico
-    - Add: .svg
     - Any other proprietary image file types?
   - Complexity (color, etc.)
     - ~~B&W + Color have been added~~
